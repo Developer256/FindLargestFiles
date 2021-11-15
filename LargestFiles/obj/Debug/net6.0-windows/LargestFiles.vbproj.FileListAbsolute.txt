@@ -1,0 +1,17 @@
+C:\TFS\LargestFiles\bin\Debug\net6.0-windows\LargestFiles.exe
+C:\TFS\LargestFiles\bin\Debug\net6.0-windows\LargestFiles.deps.json
+C:\TFS\LargestFiles\bin\Debug\net6.0-windows\LargestFiles.runtimeconfig.json
+C:\TFS\LargestFiles\bin\Debug\net6.0-windows\LargestFiles.dll
+C:\TFS\LargestFiles\bin\Debug\net6.0-windows\ref\LargestFiles.dll
+C:\TFS\LargestFiles\bin\Debug\net6.0-windows\LargestFiles.pdb
+C:\TFS\LargestFiles\obj\Debug\net6.0-windows\LargestFiles.vbproj.GenerateResource.cache
+C:\TFS\LargestFiles\obj\Debug\net6.0-windows\LargestFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\TFS\LargestFiles\obj\Debug\net6.0-windows\LargestFiles.AssemblyInfoInputs.cache
+C:\TFS\LargestFiles\obj\Debug\net6.0-windows\LargestFiles.AssemblyInfo.vb
+C:\TFS\LargestFiles\obj\Debug\net6.0-windows\LargestFiles.vbproj.CoreCompileInputs.cache
+C:\TFS\LargestFiles\obj\Debug\net6.0-windows\LargestFiles.dll
+C:\TFS\LargestFiles\obj\Debug\net6.0-windows\ref\LargestFiles.dll
+C:\TFS\LargestFiles\obj\Debug\net6.0-windows\LargestFiles.pdb
+C:\TFS\LargestFiles\obj\Debug\net6.0-windows\LargestFiles.genruntimeconfig.cache
+C:\TFS\LargestFiles\obj\Debug\net6.0-windows\LargestFiles.MainForm.resources
+C:\TFS\LargestFiles\obj\Debug\net6.0-windows\LargestFiles.vbproj.AssemblyReference.cache

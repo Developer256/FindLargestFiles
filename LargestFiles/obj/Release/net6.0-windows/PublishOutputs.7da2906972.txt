@@ -1,0 +1,5 @@
+C:\TFS\LargestFiles\bin\Release\LargestFiles.exe
+C:\TFS\LargestFiles\bin\Release\LargestFiles.dll
+C:\TFS\LargestFiles\bin\Release\LargestFiles.deps.json
+C:\TFS\LargestFiles\bin\Release\LargestFiles.runtimeconfig.json
+C:\TFS\LargestFiles\bin\Release\LargestFiles.pdb

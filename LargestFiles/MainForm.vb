@@ -44,7 +44,7 @@ Public Class MainForm
         End If
 
         For i = fileList.Count - 1 To fileList.Count - amountOfFiles Step -1
-            msg.Append(fileList.Item(i).Key & " at " & fileList.Item(i).Value.ToString("N", CultureInfo.InvariantCulture) & " bytes." & vbCrLf & vbCrLf)
+            msg.Append(fileList.Item(i).Key & " at " & fileList.Item(i).Value.ToString("N0", CultureInfo.InvariantCulture) & " bytes." & vbCrLf & vbCrLf)
         Next
 
         MessageBox.Show(msg.ToString)
